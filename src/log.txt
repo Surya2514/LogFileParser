@@ -1,0 +1,12 @@
+error : error1
+err10
+err11
+error : error2
+err20
+warning : warning1
+war10
+war11
+error : error3
+err30
+warning : warning2
+war20
